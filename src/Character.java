@@ -1,42 +1,64 @@
 public class Character {
-  
-    String name;
+
+    private String name;
     private int hit_points;
     int magic_points;
     boolean is_ally;
     private int age;
 
-    public void ValidarEdad(int age){
+    public void ValidarEdad(int age) {
         if (age < 0) {
             this.age = 0;
         } else {
-        this.age = age;
+            this.age = age;
         }
     }
-
-    public String validarnombre(String name){
-        if (this.name == "nose") {
-            this.name = "***********";
-        } else {
+// set-er
+    public void ValidarNombre(String name) { 
+        name = name.toUpperCase();
+        switch (name) {
+            case "WEON":
+                System.out.println("nombre no valido");
+                break;
             
-        }
+            case "SOPENCO":
+                System.out.println(("nombre no valido"));
+                break;
 
+            case "SOPENKO":
+                System.out.println(("nombre no valido"));
+                break;
+
+            case "ESTUPIDO":
+                System.out.println(("nombre no valido"));
+                break;
+            default:
+                this.name = name;
+                break;
+        }
+    }
+
+    
+// get-er
+    public String MostrarNombre() { 
+        return this.name;
     }
 
 
-    public void asignarVida(int hit_points){
+    public void asignarVida(int hit_points) {
         if (hit_points < 0) {
             this.hit_points = 0;
-        }else{
+        } else {
             this.hit_points = hit_points;
         }
     }
 
-    public int mostrarVida(){
+    public int mostrarVida() {
         return this.hit_points;
     }
-    public int mostraredad(){
-        return this.age
+
+    public int mostraredad() {
+        return this.age;
     }
 
 }
