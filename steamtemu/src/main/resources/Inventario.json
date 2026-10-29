@@ -1,0 +1,162 @@
+[
+  {
+    "tipo": "fisico",
+    "titulo": "The Legend of Zelda: Tears of the Kingdom",
+    "plataforma": "Nintendo Switch",
+    "stockTienda": 14,
+    "pesoGramos": 75,
+    "portada": "https://m.media-amazon.com/images/I/81xU-7l2fWL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Cyberpunk 2077: Phantom Liberty",
+    "plataforma": "PC / Steam",
+    "tamanoGB": 70.0,
+    "codigoActivacion": "CP77-PL-9948-DUOC",
+    "portada": "https://m.media-amazon.com/images/I/81xX9g-m5-L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Elden Ring",
+    "plataforma": "PlayStation 5",
+    "stockTienda": 8,
+    "pesoGramos": 90,
+    "portada": "https://m.media-amazon.com/images/I/81mS8b1kF3L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Hollow Knight",
+    "plataforma": "PC / Xbox",
+    "tamanoGB": 9.0,
+    "codigoActivacion": "HK-VOID-2026-XBOX",
+    "portada": "https://m.media-amazon.com/images/I/71rE5r820bL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Super Mario Bros. Wonder",
+    "plataforma": "Nintendo Switch",
+    "stockTienda": 25,
+    "pesoGramos": 65,
+    "portada": "https://m.media-amazon.com/images/I/81dG2q2EQtL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Baldur's Gate 3",
+    "plataforma": "PC / Steam",
+    "tamanoGB": 122.0,
+    "codigoActivacion": "BG3-LARI-7781-PC01",
+    "portada": "https://m.media-amazon.com/images/I/71e-T0H5p8L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Marvel's Spider-Man 2",
+    "plataforma": "PlayStation 5",
+    "stockTienda": 12,
+    "pesoGramos": 95,
+    "portada": "https://m.media-amazon.com/images/I/81L-eM-W2TL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Stardew Valley",
+    "plataforma": "PC / Steam",
+    "tamanoGB": 1.5,
+    "codigoActivacion": "SV-FARM-0012-MACX",
+    "portada": "https://m.media-amazon.com/images/I/711FwIgbV9L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "God of War Ragnarök",
+    "plataforma": "PlayStation 5",
+    "stockTienda": 5,
+    "pesoGramos": 90,
+    "portada": "https://m.media-amazon.com/images/I/816w-XWbfCL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Alan Wake 2",
+    "plataforma": "PC / Epic",
+    "tamanoGB": 86.0,
+    "codigoActivacion": "AW2-EPIC-5491-DARK",
+    "portada": "https://m.media-amazon.com/images/I/71Kz5tU69-L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Mario Kart 8 Deluxe",
+    "plataforma": "Nintendo Switch",
+    "stockTienda": 30,
+    "pesoGramos": 60,
+    "portada": "https://m.media-amazon.com/images/I/81dG2q2EQtL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Red Dead Redemption 2",
+    "plataforma": "PC / Steam",
+    "tamanoGB": 115.0,
+    "codigoActivacion": "RDR2-ROCK-4452-WILD",
+    "portada": "https://m.media-amazon.com/images/I/81XW6-c7s6L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Final Fantasy VII Rebirth",
+    "plataforma": "PlayStation 5",
+    "stockTienda": 18,
+    "pesoGramos": 105,
+    "portada": "https://m.media-amazon.com/images/I/81bH9f7fUoL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Hades",
+    "plataforma": "PC / Xbox",
+    "tamanoGB": 15.0,
+    "codigoActivacion": "HADES-HELL-9988-GUD",
+    "portada": "https://m.media-amazon.com/images/I/71a-kCjI83L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Animal Crossing: New Horizons",
+    "plataforma": "Nintendo Switch",
+    "stockTienda": 22,
+    "pesoGramos": 65,
+    "portada": "https://m.media-amazon.com/images/I/81z83D-wLFL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Minecraft",
+    "plataforma": "PC / Windows",
+    "tamanoGB": 2.0,
+    "codigoActivacion": "MC-CRAFT-5555-JAVA",
+    "portada": "https://m.media-amazon.com/images/I/812+964zN6L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Super Smash Bros. Ultimate",
+    "plataforma": "Nintendo Switch",
+    "stockTienda": 9,
+    "pesoGramos": 70,
+    "portada": "https://m.media-amazon.com/images/I/81mS8b1kF3L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "The Witcher 3: Wild Hunt",
+    "plataforma": "PC / GOG",
+    "tamanoGB": 45.0,
+    "codigoActivacion": "W3-GERALT-1234-GOGX",
+    "portada": "https://m.media-amazon.com/images/I/71XmQ+O2RFL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "fisico",
+    "titulo": "Horizon Forbidden West",
+    "plataforma": "PlayStation 5",
+    "stockTienda": 11,
+    "pesoGramos": 88,
+    "portada": "https://m.media-amazon.com/images/I/81PjO+9Gk7L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "tipo": "digital",
+    "titulo": "Resident Evil 4",
+    "plataforma": "PC / Steam",
+    "tamanoGB": 60.0,
+    "codigoActivacion": "RE4-LEON-7788-STEAM",
+    "portada": "https://m.media-amazon.com/images/I/71rIuR2w71L._AC_UF1000,1000_QL80_.jpg"
+  }
+]
